@@ -1,0 +1,7 @@
+baseURL = 'https://allen-shaw.github.io/'
+languageCode = 'en-us'
+defaultContentLanguage = 'zh'
+title = "Allen's Blog"
+
+theme = 'PaperMod'
+
